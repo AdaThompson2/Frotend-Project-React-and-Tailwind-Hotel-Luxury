@@ -1,9 +1,9 @@
 import React from 'react'
+import Navbar from './Components/Navbar'
+import Home from './Components/Home'
 import Contactus from './Components/Contact-us'
 import Facilities from './Components/Facilities'
 import Rooms from './Components/Rooms'
-import Home from './Components/Home'
-import Navbar from './Components/Navbar'
 import { Route, Routes } from 'react-router-dom'
 
 
@@ -16,7 +16,7 @@ export default function App() {
     
     
     
-    <div className='bg-[#14274A]/50 w-[1920] h-[1080] '>
+    <div className=' '>
 
       <Navbar/>
 
