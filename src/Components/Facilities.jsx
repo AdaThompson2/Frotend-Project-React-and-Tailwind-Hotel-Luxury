@@ -26,14 +26,14 @@ export default function Facilities() {
       
       </nav>
       <section className=''>
-      <div className=' ml-140  '><button className=' flex items-center rounded-md 
+      <div className=' ml-150  '><button className=' flex items-center rounded-md 
       bg-[#E0B973] pl-3 pr-3 pt-3 pb-3 gap-3 absolute mt-15'>
         
         <HomeIcon className=' rounded-md  text-[#E0B973] bg-[#FFFFFF]'/>
         BOOK NOW</button></div>
       </section>
       
-      <div  className=' items-center ml-150 absolute bottom-1 '>
+      <div  className=' items-center ml-160 absolute bottom-1 '>
       
         <h3 className='text-2xl text-[#FFFFFF] '>scroll</h3>
       
