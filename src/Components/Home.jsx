@@ -9,7 +9,7 @@ export default function Homes() {
     <div className='
     '>
 
-<div className='relative h-screen bg-[url(/house.png)] bg-contain bg-center bg-cover bg-no-repeat text-[#FFFFFF] '>
+<div className='relative h-screen bg-[url(/house.png)] bg-contain bg-center bg-cover bg-no-repeat brightness-50 text-[#FFFFFF] '>
 <nav>
 
 <div className='ml-30  gap-10 pt-40 '>
@@ -25,7 +25,7 @@ redefined at the most affordable rates</p>
 
 </nav>
 <section className=''>
-<div className=' ml-140  '><button className=' flex items-center rounded-md 
+<div className=' ml-140 '><button className=' flex items-center rounded-md 
 bg-[#E0B973] pl-3 pr-3 pt-3 pb-3 gap-3 absolute mt-15'>
   
   <HomeIcon className=' rounded-md  text-[#E0B973] bg-[#FFFFFF]'/>
